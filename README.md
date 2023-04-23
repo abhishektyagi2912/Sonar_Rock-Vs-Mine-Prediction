@@ -16,7 +16,9 @@ To run this project, you will need Python 3 and the following libraries:
 
 To install the required libraries, run the following command:
 
-```pip install numpy pandas scikit-learn matplotlib ```
+```
+pip install numpy pandas scikit-learn matplotlib 
+```
 
 ## Methodology
 
