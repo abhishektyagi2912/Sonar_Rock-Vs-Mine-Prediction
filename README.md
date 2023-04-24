@@ -1,4 +1,4 @@
-# Sonar_Rock-Vs-Mine-Prediction
+# Sonar_Rock-Vs-Mine-Prediction_using_Logistic_Regression
 This project is a binary classification task that predicts whether a sonar signal bounces off a rock or a mine. We use the classic Sonar dataset, which consists of 208 samples of sonar signals. The goal is to train a machine learning model that can accurately classify whether the object is a rock or a mine based on the sonar signal.
 
 ## Getting Started
@@ -37,6 +37,4 @@ In this project, we demonstrated how to use linear regression for binary classif
 ## Acknowledgments
 * The Sonar dataset was obtained from the UCI Machine Learning Repository.
 * The code for this project was adapted from the scikit-learn documentation.
-
-
 
